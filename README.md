@@ -35,7 +35,7 @@
 <a href="https://github.com/rizhiyi/YYetsTelegramBot">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=YYetsTelegramBot&show_owner=true&theme=dracula" />
 </a>    
-<a href="https://github.com/rizhiyi/QQMusicDecoder">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=QQMusicDecoder&theme=dracula&show_owner=true" />
+<a href="https://github.com/rizhiyi/MusicDecoder">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rizhiyi&repo=MusicDecoder&theme=dracula&show_owner=true" />
 </a>
 
