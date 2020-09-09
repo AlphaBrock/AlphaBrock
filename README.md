@@ -29,13 +29,16 @@
 
 *NOTE: 这里的指标信息不不代表我的代码水平，只是从github拉取出相关数据而已，实际上我还是个渣渣*
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlphaBrock&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="Anurag's github stats" />
+<a href="https://github.com/AlphaBrock">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=AlphaBrock&show_icons=true&include_all_commits=true&theme=dracula&count_private=true" alt="AlphaBrock's github stats" />
 </a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/AlphaBrock">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlphaBrock&layout=compact&theme=dracula" />
-</a><a href="https://github.com/anuraghazra/github-readme-stats">    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=YYetsTelegramBot&show_owner=true&theme=dracula" />
+</a>
+<a href="https://github.com/AlphaBrock/YYetsTelegramBot">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=YYetsTelegramBot&show_owner=true&theme=dracula" />
 </a>    
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=QQMusicDecoder&theme=dracula&show_owner=true" />
+<a href="https://github.com/AlphaBrock/QQMusicDecoder">
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=QQMusicDecoder&theme=dracula&show_owner=true" />
 </a>
 
