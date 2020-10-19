@@ -12,9 +12,9 @@
 </a>
 </p>
 
-- 🔭 目前在维护的项目代码：[QQMusicDecoder](https://github.com/rizhiyi/QQMusicDecoder) & [YYetsTelegramBot](https://github.com/rizhiyi/YYetsTelegramBot)
+- 🔭 目前在维护的项目代码：[QQMusicDecoder](https://github.com/AlphaBrock/MusicDecoder) & [YYetsTelegramBot](https://github.com/AlphaBrock/YYetsTelegramBot)
 - 🌱 目前正在努力的学习 Python & Go & C++
-- 👯 如果大佬感兴趣可以为 [QQMusicDecoder](https://github.com/rizhiyi/QQMusicDecoder) 给个PR
+- 👯 如果大佬感兴趣可以为 [QQMusicDecoder](https://github.com/AlphaBrock/MusicDecoder) 给个PR
 - 💬 Ask me about [Issues](https://github.com/AlphaBrock/AlphaBrock/issues)
 
 **Languages and Tools:**  
@@ -32,10 +32,10 @@
 <a href="https://github.com/AlphaBrock">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=AlphaBrock&layout=compact&theme=dracula" />
 </a>
-<a href="https://github.com/rizhiyi/YYetsTelegramBot">
+<a href="https://github.com/AlphaBrock/YYetsTelegramBot">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=YYetsTelegramBot&show_owner=true&theme=dracula" />
 </a>    
-<a href="https://github.com/rizhiyi/MusicDecoder">
+<a href="https://github.com/AlphaBrock/MusicDecoder">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rizhiyi&repo=MusicDecoder&theme=dracula&show_owner=true" />
 </a>
 
