@@ -36,6 +36,6 @@
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=YYetsTelegramBot&show_owner=true&theme=dracula" />
 </a>    
 <a href="https://github.com/AlphaBrock/MusicDecoder">
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=rizhiyi&repo=MusicDecoder&theme=dracula&show_owner=true" />
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=AlphaBrock&repo=MusicDecoder&theme=dracula&show_owner=true" />
 </a>
 
