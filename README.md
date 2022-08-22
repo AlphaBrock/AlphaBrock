@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Go**
 
-- 👨‍💻 All of my projects are available at [https://github.com/AlphaBrock](https://github.com/AlphaBrock)
+- 👨‍💻 All of my projects are available at [Github](https://github.com/AlphaBrock)
 
-- 💬 Ask me about **https://github.com/AlphaBrock/AlphaBrock/issues**
+- 💬 Ask me about **[Discuss](https://github.com/AlphaBrock/AlphaBrock/issues)**
 
 - 📫 How to reach me **jcciam@outlook.com**
 
-- 📄 Know about my experiences [https://quilled-flax-e6b.notion.site/d1ea09a277c64baaba9de5df78d5ef91](https://quilled-flax-e6b.notion.site/d1ea09a277c64baaba9de5df78d5ef91)
+- 📄 Know about my experiences [RESUME](https://quilled-flax-e6b.notion.site/d1ea09a277c64baaba9de5df78d5ef91)
 
 
 <h3 align="left">Connect with me:</h3>
