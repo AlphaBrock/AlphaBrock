@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="![](https://cdn.jsdelivr.net/gh/AlphaBrock/md_img/windows/hello.svg)" height="175px" />
+  <img src="https://cdn.jsdelivr.net/gh/AlphaBrock/md_img/windows/hello.svg" height="175px" />
 </div>
 
 <h1 align="center">Hi 👋, I'm AlphaBrock</h1>
