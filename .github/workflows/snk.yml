@@ -4,7 +4,7 @@ name: Generate Snake
 
 on:
   schedule:
-    - cron: "25 11 * * *"
+    - cron: "5 */1 * * *"
   workflow_dispatch:
 
   # run on every push on the master branch
