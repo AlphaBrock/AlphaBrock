@@ -5,14 +5,6 @@
 <h1 align="center">Hi 👋, I'm AlphaBrock</h1>
 <h3 align="center">A Python Developer From Guangzhou</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alphabrock&label=Profile%20views&color=0e75b6&style=flat" alt="alphabrock" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alphabrock" alt="alphabrock" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/o_alphabrock" target="blank"><img src="https://img.shields.io/twitter/follow/o_alphabrock?logo=twitter&style=for-the-badge" alt="o_alphabrock" /></a> </p>
-
-- 🔭 I’m currently working on [RealEstateDataCollection](https://github.com/AlphaBrock/RealEstateDataCollection)
-
 - 🌱 I’m currently learning **Go**
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/AlphaBrock)
@@ -23,10 +15,6 @@
 
 - 📄 Know about my experiences [RESUME](https://quilled-flax-e6b.notion.site/d1ea09a277c64baaba9de5df78d5ef91)
 
-<!-- 贪吃蛇 代码贡献图 -->
-<div align="center"><img src="https://cdn.jsdelivr.net/gh/AlphaBrock/AlphaBrock/snk/github-contribution-grid-snake.svg" /></div>
-
-<br/>
 
 ### Contact Me
 
@@ -71,18 +59,3 @@
 [![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=flat-square&logo=splunk&logoColor=white)]()
 [![](https://img.shields.io/badge/-Nginx-269539?style=flat-square&logo=nginx&logoColor=ffffff)](https://nginx.org/)
 [![Apache Kafka](https://img.shields.io/badge/Apache%20Kafka-000?style=flat-square&logo=apachekafka)]()
-
-
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alphabrock&show_icons=true&locale=en&layout=compact" alt="alphabrock" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alphabrock&show_icons=true&locale=en" alt="alphabrock" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=alphabrock&" alt="alphabrock" /></p>
-
-# Metrics
-
-<!-- Metrics -->
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/AlphaBrock/AlphaBrock/github-metrics.svg" alt="base metrics" width="75%"/>
-</div>
